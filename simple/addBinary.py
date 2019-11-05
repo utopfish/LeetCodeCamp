@@ -4,7 +4,7 @@
 #@file:addBinary.py
 #@time: 2019/11/3 12:04
 class Solution2:
-    def addBinary(self, a, b) -> str:
+    def addBinary(self, a, b):
         #p记录进位
         r, p = '', 0
         d = len(b) - len(a)
