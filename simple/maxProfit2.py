@@ -18,13 +18,7 @@ class Solution:
             dp[i] = max(0, diff[i]+dp[i-1])
             max_profit = max(max_profit, dp[i])
         return max_profit
-class Solution2:
-    def maxProfit(self, prices: List[int]) -> int:
-        pro=0
-        for i in range(1,len(prices)):
-            temp=prices[i]-prices[i-1]
-            if temp>0:pro+=temp
-        return pro
+
 if __name__=="__main__":
     Test=Solution()
     print(Test.maxProfit([7,1,5,3,6,4]))

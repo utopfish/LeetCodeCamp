@@ -1,7 +1,7 @@
 # -*- coding=utf-8 -*-
 #@author:liuAmon
 #@contact:utopfish@163.com
-#@file:两数之和.py
+#@file:twoSum.py
 #@time: 2019/10/26 11:20
 import unittest
 
