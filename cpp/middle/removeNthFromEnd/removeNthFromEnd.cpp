@@ -29,10 +29,10 @@ public:
 
         ListNode* delNode = p->next;
         p->next = delNode->next;
-        delete delNode;
+        delete delNode;//精致
 
         ListNode* retNode = dummyHead->next;
-        delete dummyHead;
+        delete dummyHead;//精致
 
         return retNode;
 
