@@ -4,3 +4,5 @@ project(cpp)
 set(CMAKE_CXX_STANDARD 11)
 add_subdirectory(easy/twoSum)
 add_subdirectory(easy/deleteNode)
+
+add_subdirectory(middle/removeNthFromEnd)
