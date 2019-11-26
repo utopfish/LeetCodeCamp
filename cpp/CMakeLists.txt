@@ -7,6 +7,8 @@ add_subdirectory(easy/deleteNode)
 add_subdirectory(easy/megeTwoLists)
 add_subdirectory(easy/isPalindrome)
 add_subdirectory(easy/hasCycle)
+add_subdirectory(easy/isSymmetric)
+
 
 add_subdirectory(middle/removeNthFromEnd)
 add_subdirectory(middle/isValidBST)
