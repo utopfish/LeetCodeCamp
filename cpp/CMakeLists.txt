@@ -9,6 +9,7 @@ add_subdirectory(easy/isPalindrome)
 add_subdirectory(easy/hasCycle)
 add_subdirectory(easy/isSymmetric)
 add_subdirectory(easy/sortedArrayToBST)
+add_subdirectory(easy/merge)
 
 add_subdirectory(middle/removeNthFromEnd)
 add_subdirectory(middle/isValidBST)
