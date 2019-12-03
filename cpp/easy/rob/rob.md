@@ -46,7 +46,7 @@
 1. 遍历数组，索引为奇数时，将元素加到奇数和，并与偶数和比较更新成max。
 1. 偶数和同理。
 1. 返回时进行最后一次更新max。
-
+	for (int i = 0;
 ## 答题 ##
 ```asm
 int rob(vector<int>& nums) 
@@ -54,7 +54,7 @@ int rob(vector<int>& nums)
 	int sumOdd = 0;
 	int sumEven = 0;
 
-	for (int i = 0; i < nums.size(); i++)
+ i < nums.size(); i++)
 	{
 		if (i % 2 == 0)
 		{

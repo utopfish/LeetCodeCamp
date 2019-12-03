@@ -12,6 +12,7 @@ add_subdirectory(easy/sortedArrayToBST)
 add_subdirectory(easy/merge)
 add_subdirectory(easy/firstBadVersion)
 add_subdirectory(easy/rob)
+add_subdirectory(easy/arraryPairSum)
 
 add_subdirectory(middle/removeNthFromEnd)
 add_subdirectory(middle/isValidBST)
