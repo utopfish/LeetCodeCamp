@@ -4,5 +4,10 @@
 #@File:test.py
 __author__ = "liuAmon"
 
-s=[1,2,3]
-print(s[1:3])
+
+import numpy as np, pandas as pd
+arr1 = np.arange(10)
+s1 = pd.Series()
+print(s1.shape)
+# print(s1.describe())
+print(s1.head)
