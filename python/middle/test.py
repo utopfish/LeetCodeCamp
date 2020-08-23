@@ -5,9 +5,16 @@
 __author__ = "liuAmon"
 
 
-import numpy as np, pandas as pd
-arr1 = np.arange(10)
-s1 = pd.Series()
-print(s1.shape)
-# print(s1.describe())
-print(s1.head)
+n,m=map(int,input().strip().split(" "))
+num=list(map(int,input().strip().split(" ")))
+di={}
+for i in num:
+    if i in di.keys():
+         di[i]+=1
+    else:
+         di[i]=1
+res=[]
+for  i in num:
+    if di[i]<=m:
+         res.append(str(i))
+print(" ".join(res))
