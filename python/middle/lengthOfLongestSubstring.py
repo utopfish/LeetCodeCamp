@@ -46,7 +46,19 @@ class Solution2:
             if cur_len > max_len: max_len = cur_len
             lookup.add(s[i])
         return max_len
+class Solution3:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        dp=0
+        maxlen = 0
+        res = {}
+        for i in range(len(s)):
+            j=res.get(s[i],-1)
+            res[s[i]]=i
+            dp=dp+1 if dp<j-1 else j-1
+            maxlen =max(maxlen,dp)
+
+        return maxlen
 if __name__=="__main__":
     s="dvdf"
-    test=Solution()
+    test=Solution3()
     print(test.lengthOfLongestSubstring(s))
