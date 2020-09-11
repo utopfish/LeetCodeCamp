@@ -53,3 +53,6 @@ for _ in range(q):
             if x >= a and x <= b:
                 count += 1
     print(count)
+
+
+
