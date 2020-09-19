@@ -30,6 +30,6 @@ def KMP(t,p):
     return False
 
 if __name__=="__main__":
-    target="BBC ABCDAB ABCDABCDABDE"
-    pattern="ABCDABD"
+    target="sword"
+    pattern="word"
     print(KMP(target,pattern))
