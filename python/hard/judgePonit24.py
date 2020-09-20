@@ -3,6 +3,7 @@
 #@contact:utopfish@163.com
 #@file:judgePonit24.py
 #@time: 2020/8/22 22:32
+from typing import List
 class Solution:
     def judgePoint24(self, nums: List[int]) -> bool:
         TARGET = 24
