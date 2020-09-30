@@ -1,7 +1,7 @@
 #@Time:2020/9/9 11:32
 #@Author:liuAmon
 #@e-mail:utopfish@163.com
-#@File:copyRandomList.py
+#@File:c035copyRandomList.py
 __author__ = "liuAmon"
 class Node:
     def __init__(self, x: int, next: 'Node' = None, random: 'Node' = None):

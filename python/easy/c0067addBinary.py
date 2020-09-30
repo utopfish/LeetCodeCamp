@@ -1,7 +1,7 @@
 # -*- coding=utf-8 -*-
 #@author:liuAmon
 #@contact:utopfish@163.com
-#@file:addBinary.py
+#@file:c0067addBinary.py
 #@time: 2019/11/3 12:04
 class Solution2:
     def addBinary(self, a, b):

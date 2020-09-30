@@ -1,7 +1,7 @@
 #@Time:2020/9/10 15:19
 #@Author:liuAmon
 #@e-mail:utopfish@163.com
-#@File:combinationSum2.py
+#@File:c0040combinationSum2.py
 __author__ = "liuAmon"
 from typing import List
 class Solution:

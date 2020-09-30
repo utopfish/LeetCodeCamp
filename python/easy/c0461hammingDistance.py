@@ -1,7 +1,7 @@
 # -*- coding=utf-8 -*-
 #@author:liuAmon
 #@contact:utopfish@163.com
-#@file:0461hammingDistance.py
+#@file:c0461hammingDistance.py
 #@time: 2020/9/22 11:00
 """
 两个整数之间的汉明距离指的是这两个数字对应二进制位不同的位置的数目。

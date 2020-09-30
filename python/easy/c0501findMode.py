@@ -1,7 +1,7 @@
 #@Time:2020/9/24 12:31
 #@Author:liuAmon
 #@e-mail:utopfish@163.com
-#@File:0501findMode.py
+#@File:c0501findMode.py
 __author__ = "liuAmon"
 
 

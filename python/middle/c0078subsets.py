@@ -1,7 +1,7 @@
 #@Time:2020/9/20 14:40
 #@Author:liuAmon
 #@e-mail:utopfish@163.com
-#@File:0078subsets.py
+#@File:c0078subsets.py
 __author__ = "liuAmon"
 from  typing import List
 class Solution:
