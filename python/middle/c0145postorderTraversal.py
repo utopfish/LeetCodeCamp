@@ -9,6 +9,7 @@
 """
 简单题，今天太饿了，明天试试能否用今天看到地yield 和next来解决，不知道是否空间复杂度能降低.
 + yield 似乎不能在这里使用，在遍历树中存在迭代的问题，无法简单用yield处理。
+能用yield+递归处理，结构也很优雅 但和原本的方法相比效率没有明显差异，使用pytest和力扣自带测试比较都是如此
 """
 from typing import List
 import pytest
