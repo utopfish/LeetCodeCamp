@@ -1,7 +1,7 @@
 #@Time:2020/9/17 15:08
 #@Author:liuAmon
 #@e-mail:utopfish@163.com
-#@File:findRedundantDirectedConnection.py
+#@File:c0685findRedundantDirectedConnection.py
 __author__ = "liuAmon"
 from typing import List
 class unionFind():

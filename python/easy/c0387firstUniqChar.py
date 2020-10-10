@@ -1,7 +1,7 @@
 #@Time:2019/11/11 14:42
 #@Author:liuAmon
 #@e-mail:utopfish@163.com
-#@File:firstUniqChar.py
+#@File:c0387firstUniqChar.py
 class Solution:
     def firstUniqChar(self, s: str) -> int:
         hashmap={}

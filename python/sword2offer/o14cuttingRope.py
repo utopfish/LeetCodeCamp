@@ -1,7 +1,7 @@
 #@Time:2020/9/3 16:28
 #@Author:liuAmon
 #@e-mail:utopfish@163.com
-#@File:cuttingRope.py
+#@File:o14cuttingRope.py
 __author__ = "liuAmon"
 
 

@@ -1,7 +1,7 @@
 # -*- coding=utf-8 -*-
 #@author:liuAmon
 #@contact:utopfish@163.com
-#@file:judgePonit24.py
+#@file:c0679judgePonit24.py
 #@time: 2020/8/22 22:32
 from typing import List
 class Solution:

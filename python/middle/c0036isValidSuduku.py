@@ -1,7 +1,7 @@
 # -*- coding=utf-8 -*-
 #@author:liuAmon
 #@contact:utopfish@163.com
-#@file:isValidSuduku.py
+#@file:c0036isValidSuduku.py
 #@time: 2019/11/10 11:56
 from  typing import List
 class Solution:

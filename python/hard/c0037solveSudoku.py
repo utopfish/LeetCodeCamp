@@ -1,7 +1,7 @@
 # @Time:2020/9/15 9:42
 # @Author:liuAmon
 # @e-mail:utopfish@163.com
-# @File:solveSudoku.py
+# @File:c0037solveSudoku.py
 __author__ = "liuAmon"
 from typing import List
 

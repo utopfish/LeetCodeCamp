@@ -1,7 +1,7 @@
 #@Time:2020/9/2 16:38
 #@Author:liuAmon
 #@e-mail:utopfish@163.com
-#@File:nthUglyNumber.py
+#@File:o49nthUglyNumber.py
 __author__ = "liuAmon"
 
 """

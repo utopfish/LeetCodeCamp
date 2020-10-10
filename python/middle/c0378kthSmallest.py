@@ -1,7 +1,7 @@
 # -*- coding=utf-8 -*-
 #@author:liuAmon
 #@contact:utopfish@163.com
-#@file:kthSmallest.py
+#@file:c0378kthSmallest.py
 #@time: 2019/10/28 14:31
 class Solution():
     def kthSmallest(self, matrix, k):

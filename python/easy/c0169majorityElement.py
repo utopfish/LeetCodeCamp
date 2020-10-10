@@ -1,7 +1,7 @@
 #@Time:2020/8/19 21:37
 #@Author:liuAmon
 #@e-mail:utopfish@163.com
-#@File:majorityElement.py
+#@File:c0169majorityElement.py
 __author__ = "liuAmon"
 
 '''

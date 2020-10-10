@@ -1,7 +1,7 @@
 #@Time:2020/9/11 21:25
 #@Author:liuAmon
 #@e-mail:utopfish@163.com
-#@File:threeSum.py
+#@File:c0015threeSum.py
 __author__ = "liuAmon"
 from typing import List
 #方法超时

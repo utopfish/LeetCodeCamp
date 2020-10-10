@@ -1,7 +1,7 @@
 #@Time:2020/8/23 16:10
 #@Author:liuAmon
 #@e-mail:utopfish@163.com
-#@File:rangeBitwiseAnd.py
+#@File:c0201rangeBitwiseAnd.py
 __author__ = "liuAmon"
 
 """

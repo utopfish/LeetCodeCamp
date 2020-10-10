@@ -1,7 +1,7 @@
 #@Time:2020/9/11 19:41
 #@Author:liuAmon
 #@e-mail:utopfish@163.com
-#@File:verifyPostorder.py
+#@File:c33verifyPostorder.py
 __author__ = "liuAmon"
 from typing import List
 class Solution:

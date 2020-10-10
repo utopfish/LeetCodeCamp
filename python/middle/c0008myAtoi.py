@@ -1,7 +1,7 @@
 #@Time:2019/11/13 15:02
 #@Author:liuAmon
 #@e-mail:utopfish@163.com
-#@File:myAtoi.py
+#@File:c0008myAtoi.py
 
 class Solution:
     '''

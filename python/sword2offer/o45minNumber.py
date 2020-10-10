@@ -1,7 +1,7 @@
 #@Time:2020/9/9 16:56
 #@Author:liuAmon
 #@e-mail:utopfish@163.com
-#@File:minNumber.py
+#@File:o45minNumber.py
 __author__ = "liuAmon"
 from typing import List
 class Solution:

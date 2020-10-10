@@ -1,7 +1,7 @@
 #@Time:2020/9/17 14:20
 #@Author:liuAmon
 #@e-mail:utopfish@163.com
-#@File:findRedundantConnection.py
+#@File:c0684findRedundantConnection.py
 __author__ = "liuAmon"
 from typing import List
 class Solution:

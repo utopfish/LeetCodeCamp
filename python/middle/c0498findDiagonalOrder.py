@@ -1,7 +1,7 @@
 # -*- coding=utf-8 -*-
 #@author:liuAmon
 #@contact:utopfish@163.com
-#@file:findDiagonalOrder.py
+#@file:c0498findDiagonalOrder.py
 #@time: 2019/10/31 21:54
 from typing import List
 class Solution:

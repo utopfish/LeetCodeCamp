@@ -1,7 +1,7 @@
 # -*- coding=utf-8 -*-
 #@author:liuAmon
 #@contact:utopfish@163.com
-#@file:lengthOfLongestSubstring.py
+#@file:o48lengthOfLongestSubstring.py
 #@time: 2019/10/28 14:55
 class Solution:
     def get_key(self,dict, value):
