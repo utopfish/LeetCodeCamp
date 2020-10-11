@@ -5,5 +5,4 @@
 __author__ = "liuAmon"
 import numpy,pandas
 a,b=1,2
-if a>b:
-    print("holle Wrold!")
+print(a&b)
