@@ -5,10 +5,16 @@ python/sword2offer/剑指offer
 python/odds/搜集的奇特，有趣题目解法
 
 | 题号          |   题目                                                           | 分类  |难度|语言|
-| ------------- |:-------------:  | -----: | -----:|----:|
-| 0024          | [两两交换链表中的节点](LeetCode_java\src\linklist\c0024swapPairs) | 链表 |中等|java|
-|剑指offer03    |[数组中重复的数字](articles\hash\数组中重复的数字.md)                |hash|简单|python|
-|剑指offer04    |[二维数组中的查找](articles\array\二维数组中的查找.md)               |数组|简单|python|
+| ------------- |:-------------:  | :----- | :-----|:----|
+| 0024          |[两两交换链表中的节点](articles/链表/两两交换链表中的节点.md)        | 链表 |中等|java|
+| 0067          |[二进制求和](articles/字符串/二进制求和.md)                          |字符串|简单|python|
+|剑指offer03    |[数组中重复的数字](articles/hash/数组中重复的数字.md)                |hash|简单|python|
+|剑指offer04    |[二维数组中的查找](articles/array/二维数组中的查找.md)               |数组|简单|python|
+|剑指offer25    |[合并两个排序的链表](articles/链表/合并两个排序的链表.md)             |链表|简单|python|
+|剑指offer10    |[I. 斐波那契数列](articles/斐波那契数/斐波那契数列.md)               |斐波那契数|简单|python|
+|剑指offer59    |[滑动窗口的最大值](articles/滑动窗口/滑动窗口的最大值.md)             |滑动窗口|简单|python|
+|剑指offer60    |[n个骰子的点数](articles/骰子/n个骰子的点数.md)                      |骰子|简单|python|
+
 
 
 
