@@ -28,3 +28,8 @@ class Solution:
         if last>2147483647:
             return 2147483647
         return last
+
+if __name__=="__main__":
+    str="   -42"
+    s=Solution()
+    print(s.myAtoi(str))
