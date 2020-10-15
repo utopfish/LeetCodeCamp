@@ -8,6 +8,8 @@ python/odds/搜集的奇特，有趣题目解法
 | ------------- |:-------------:  | :----- | :-----|:----|
 |0001           |[两数之和](articles/hash/两数之和.md)                              |hash|简单|java,python|
 |0002           |[两数相加](articles/链表/两数相加.md)                               |链表，数学|中等|python|
+|0003           |[无重复字符的最长子串](articles/字符串/无重复字符的最长子串.md)       |字符串，滑动窗口|中等|java,python|
+|0006           |[Z 字形变换](articles/字符串/Z字形变换.md)                          |字符串|中等|java,python|
 |0008           |[字符串转换整数 (atoi)](articles/字符串/字符串转换整数(atoi).md)     |字符串|中等|python|
 |0024           |[两两交换链表中的节点](articles/链表/两两交换链表中的节点.md)        | 链表 |中等|java|
 |0067           |[二进制求和](articles/字符串/二进制求和.md)                          |字符串|简单|python|
