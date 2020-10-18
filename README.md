@@ -12,10 +12,15 @@ python/odds/搜集的奇特，有趣题目解法
 |0004           |[寻找两个正序数组的中位数](articles/分治法/寻找两个正序数组的中位数.md)|分治法|困难|java(未完善)|
 |0005           |[最长回文子串](articles/字符串/最长回文子串.md)                      |字符串，动态规划|中等|java|
 |0006           |[Z 字形变换](articles/字符串/Z字形变换.md)                          |字符串|中等|java,python|
+|0007           |[整数反转](articles/数学/整数反转.md)                               |数学|中等|java|
 |0008           |[字符串转换整数 (atoi)](articles/字符串/字符串转换整数(atoi).md)     |字符串|中等|python|
+|0019           |[删除链表的倒数第N个节点](articles/链表/删除链表的倒数第N个节点.md)   |链表，双指针|中等|js,java,python,c++|
 |0024           |[两两交换链表中的节点](articles/链表/两两交换链表中的节点.md)        | 链表 |中等|java|
+|0051           |[N 皇后](articles/回溯/N皇后.md)                                   |N皇后，搜索，回溯|困难|java,python|
+|0052           |[N 皇后2](articles/回溯/N皇后II.md)                                 |N皇后，搜索，回溯|困难|python|
 |0067           |[二进制求和](articles/字符串/二进制求和.md)                          |字符串|简单|python|
 |0116           |[填充每个节点的下一个右侧节点指针](articles/链表/填充每个节点的下一个右侧节点指针.md)|链表，树|中等|java，python|
+|0977           |[有序数组的平方](articles/array/有序数组的平方.md)                   |数组，双指针|简单|java|
 |1002           |[查找常用字符](articles/字符串/查找常用字符.md)                      |字符串，hash|简单|python|
 |剑指offer03    |[数组中重复的数字](articles/hash/数组中重复的数字.md)                |hash|简单|python|
 |剑指offer04    |[二维数组中的查找](articles/array/二维数组中的查找.md)               |数组|简单|python|
