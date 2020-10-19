@@ -20,6 +20,7 @@ python/odds/搜集的奇特，有趣题目解法
 |0052           |[N 皇后2](articles/回溯/N皇后II.md)                                 |N皇后，搜索，回溯|困难|python|
 |0067           |[二进制求和](articles/字符串/二进制求和.md)                          |字符串|简单|python|
 |0116           |[填充每个节点的下一个右侧节点指针](articles/链表/填充每个节点的下一个右侧节点指针.md)|链表，树|中等|java，python|
+|0844           |[比较含退格的字符串](articles/字符串/比较含退格的字符串.md)           |字符串|简单|java|
 |0977           |[有序数组的平方](articles/array/有序数组的平方.md)                   |数组，双指针|简单|java|
 |1002           |[查找常用字符](articles/字符串/查找常用字符.md)                      |字符串，hash|简单|python|
 |剑指offer03    |[数组中重复的数字](articles/hash/数组中重复的数字.md)                |hash|简单|python|
