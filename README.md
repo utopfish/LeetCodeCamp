@@ -14,6 +14,8 @@ python/odds/搜集的奇特，有趣题目解法
 |0006           |[Z 字形变换](articles/字符串/Z字形变换.md)                          |字符串|中等|java,python|
 |0007           |[整数反转](articles/数学/整数反转.md)                               |数学|中等|java|
 |0008           |[字符串转换整数 (atoi)](articles/字符串/字符串转换整数(atoi).md)     |字符串|中等|python|
+|0015           |[三数之和](articles/数组/三数之和.md)                               |数组，双指针|中等|python|
+|0018           |[四数之和](articles/数组/四数之和.md)                               |数组，双指针|中等|python|
 |0019           |[删除链表的倒数第N个节点](articles/链表/删除链表的倒数第N个节点.md)   |链表，双指针|中等|js,java,python,c++|
 |0024           |[两两交换链表中的节点](articles/链表/两两交换链表中的节点.md)        | 链表 |中等|java|
 |0051           |[N 皇后](articles/回溯/N皇后.md)                                   |N皇后，搜索，回溯|困难|java,python|
@@ -23,6 +25,7 @@ python/odds/搜集的奇特，有趣题目解法
 |0143           |[重排链表](articles/链表/重排链表.md)                                |链表，重排|中等|java|
 |0763           |[划分字母区间](articles/字符串/划分字母区间.md)                       |字符串|中等|java|
 |0844           |[比较含退格的字符串](articles/字符串/比较含退格的字符串.md)           |字符串|简单|java|
+|0845           |[数组中的最长山脉](articles/数组/数组中的最长山脉.md)                 |数组，双指针|中等|java|
 |0925           |[长按键入](articles/字符串/长按键入.md)                              |字符串，模式匹配|简单|java|
 |0977           |[有序数组的平方](articles/array/有序数组的平方.md)                   |数组，双指针|简单|java|
 |1002           |[查找常用字符](articles/字符串/查找常用字符.md)                      |字符串，hash|简单|python|
@@ -33,7 +36,7 @@ python/odds/搜集的奇特，有趣题目解法
 |剑指 offer10   |[I. 斐波那契数列](articles/斐波那契数/斐波那契数列.md)               |斐波那契数|简单|python|
 |剑指 offer59   |[滑动窗口的最大值](articles/滑动窗口/滑动窗口的最大值.md)             |滑动窗口|简单|python|
 |剑指 offer60   |[n个骰子的点数](articles/骰子/n个骰子的点数.md)                      |骰子|简单|python|
-
+|LCP5548        |[最小体力消耗路径](articles/最短路径/最小体力消耗路径.md)             |最短路径,bfs|中等|python|
 
 
 
