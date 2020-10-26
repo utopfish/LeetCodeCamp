@@ -18,6 +18,7 @@ python/odds/搜集的奇特，有趣题目解法
 |0018           |[四数之和](articles/数组/四数之和.md)                               |数组，双指针|中等|python|
 |0019           |[删除链表的倒数第N个节点](articles/链表/删除链表的倒数第N个节点.md)   |链表，双指针|中等|js,java,python,c++|
 |0024           |[两两交换链表中的节点](articles/链表/两两交换链表中的节点.md)        | 链表 |中等|java|
+|0036           |[有效的数独](articles/数独/有效的数独.md)                           |数独，hash|中等|java，python|
 |0051           |[N 皇后](articles/回溯/N皇后.md)                                   |N皇后，搜索，回溯|困难|java,python|
 |0052           |[N 皇后2](articles/回溯/N皇后II.md)                                 |N皇后，搜索，回溯|困难|python|
 |0067           |[二进制求和](articles/字符串/二进制求和.md)                          |字符串|简单|python|
@@ -29,6 +30,7 @@ python/odds/搜集的奇特，有趣题目解法
 |0925           |[长按键入](articles/字符串/长按键入.md)                              |字符串，模式匹配|简单|java|
 |0977           |[有序数组的平方](articles/array/有序数组的平方.md)                   |数组，双指针|简单|java|
 |1002           |[查找常用字符](articles/字符串/查找常用字符.md)                      |字符串，hash|简单|python|
+|1365           |[有多少小于当前数字的数字](articles/数组/有多少小于当前数字的数字.md)  |数组|简单|java|
 |剑指 offer03   |[数组中重复的数字](articles/hash/数组中重复的数字.md)                |hash|简单|python|
 |剑指 offer04   |[二维数组中的查找](articles/array/二维数组中的查找.md)               |数组|简单|python|
 |剑指 offer24   |[反转链表](articles/链表/反转链表.md)                                |链表，双指针，递归|简单|java|
