@@ -19,20 +19,24 @@ python/odds/搜集的奇特，有趣题目解法
 |0019           |[删除链表的倒数第N个节点](articles/链表/删除链表的倒数第N个节点.md)   |链表，双指针|中等|js,java,python,c++|
 |0024           |[两两交换链表中的节点](articles/链表/两两交换链表中的节点.md)        | 链表 |中等|java|
 |0036           |[有效的数独](articles/数独/有效的数独.md)                           |数独，hash|中等|java，python|
+|0039           |[组合总和](articles/数组/组合总和.md)                               |递归|中等|java|
 |0051           |[N 皇后](articles/回溯/N皇后.md)                                   |N皇后，搜索，回溯|困难|java,python|
 |0052           |[N 皇后2](articles/回溯/N皇后II.md)                                 |N皇后，搜索，回溯|困难|python|
 |0067           |[二进制求和](articles/字符串/二进制求和.md)                          |字符串|简单|python|
 |0116           |[填充每个节点的下一个右侧节点指针](articles/链表/填充每个节点的下一个右侧节点指针.md)|链表，树|中等|java，python|
 |0143           |[重排链表](articles/链表/重排链表.md)                                |链表，重排|中等|java|
+|0144           |[二叉树的前序遍历](articles/二叉树/二叉树的前序遍历.md)               |二叉树，遍历|中等|python|
+|0234           |[回文链表](articles/链表/回文链表.md)                               |链表，回文|简单|java|
 |0763           |[划分字母区间](articles/字符串/划分字母区间.md)                       |字符串|中等|java|
 |0844           |[比较含退格的字符串](articles/字符串/比较含退格的字符串.md)           |字符串|简单|java|
 |0845           |[数组中的最长山脉](articles/数组/数组中的最长山脉.md)                 |数组，双指针|中等|java|
 |0925           |[长按键入](articles/字符串/长按键入.md)                              |字符串，模式匹配|简单|java|
-|0977           |[有序数组的平方](articles/array/有序数组的平方.md)                   |数组，双指针|简单|java|
+|0977           |[有序数组的平方](articles/数组/有序数组的平方.md)                     |数组，双指针|简单|java|
 |1002           |[查找常用字符](articles/字符串/查找常用字符.md)                      |字符串，hash|简单|python|
+|1024           |[视频拼接](articles/动态规划/视频拼接.md)                            |动态规划|中等|java|
 |1365           |[有多少小于当前数字的数字](articles/数组/有多少小于当前数字的数字.md)  |数组|简单|java|
 |剑指 offer03   |[数组中重复的数字](articles/hash/数组中重复的数字.md)                |hash|简单|python|
-|剑指 offer04   |[二维数组中的查找](articles/array/二维数组中的查找.md)               |数组|简单|python|
+|剑指 offer04   |[二维数组中的查找](articles/数组/二维数组中的查找.md)               |数组|简单|python|
 |剑指 offer24   |[反转链表](articles/链表/反转链表.md)                                |链表，双指针，递归|简单|java|
 |剑指 offer25   |[合并两个排序的链表](articles/链表/合并两个排序的链表.md)             |链表|简单|python|
 |剑指 offer10   |[I. 斐波那契数列](articles/斐波那契数/斐波那契数列.md)               |斐波那契数|简单|python|
