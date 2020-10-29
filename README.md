@@ -20,6 +20,7 @@ python/odds/搜集的奇特，有趣题目解法
 |0024           |[两两交换链表中的节点](articles/链表/两两交换链表中的节点.md)        | 链表 |中等|java|
 |0036           |[有效的数独](articles/数独/有效的数独.md)                           |数独，hash|中等|java，python|
 |0039           |[组合总和](articles/数组/组合总和.md)                               |递归|中等|java|
+|0041           |[缺失的第一个正数](articles/hash/缺失的第一个正数.md)                |原地hash|**困难**|java|
 |0051           |[N 皇后](articles/回溯/N皇后.md)                                   |N皇后，搜索，回溯|困难|java,python|
 |0052           |[N 皇后2](articles/回溯/N皇后II.md)                                 |N皇后，搜索，回溯|困难|python|
 |0067           |[二进制求和](articles/字符串/二进制求和.md)                          |字符串|简单|python|
