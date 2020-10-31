@@ -20,3 +20,5 @@ def foo_1(a,b):
     inner_1(a,b)
 
 foo_1(1,2)
+# for i in range(100):
+#     print("{}:".format(i),2<<i)
