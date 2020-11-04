@@ -21,6 +21,7 @@ python/odds/搜集的奇特，有趣题目解法
 |0042           |[接雨水](articles/动态规划/接雨水.md)                               |动态规划|**困难**|Java|
 |0051           |[N皇后](articles/回溯/N皇后.md)                                   |N皇后，搜索，回溯|困难|java,python|
 |0052           |[N皇后2](articles/回溯/N皇后II.md)                                 |N皇后，搜索，回溯|困难|python|
+|0057           |[插入区间](articles/数组/插入区间.md)                               |数组，排序|伪难题|python|
 |0067           |[二进制求和](articles/字符串/二进制求和.md)                          |字符串|简单|python|
 |0463           |[岛屿的周长](articles/DFS/岛屿的周长.md)                             |DFS|简单|java|
 |0116           |[填充每个节点的下一个右侧节点指针](articles/链表/填充每个节点的下一个右侧节点指针.md)|链表，树|中等|java，python|
