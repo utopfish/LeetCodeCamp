@@ -14,6 +14,7 @@ python/odds/搜集的奇特，有趣题目解法
 |0006           |[Z 字形变换](articles/字符串/Z字形变换.md)                          |字符串|中等|java,python|
 |0007           |[整数反转](articles/数学/整数反转.md)                               |数学|中等|java|
 |0008           |[字符串转换整数 (atoi)](articles/字符串/字符串转换整数(atoi).md)     |字符串|中等|python|
+|0017           |[电话号码的字母组合](articles/DFS/电话号码的字母组合.md)              |DFS,组合，回溯|中等|java|
 |0024           |[两两交换链表中的节点](articles/链表/两两交换链表中的节点.md)        | 链表 |中等|java|
 |0036           |[有效的数独](articles/数独/有效的数独.md)                           |数独，hash|中等|java，python|
 |0039           |[组合总和](articles/数组/组合总和.md)                               |递归|中等|java|
