@@ -30,9 +30,12 @@ public class Solution {
         return (int)count;
     }
     public static void main(String[] args){
-        int [] v=new int[]{773160767};
-        int o=252264991;
-        Solution s=new Solution();
-        System.out.print(s.maxProfit(v,o));
+//        int [] v=new int[]{773160767};
+//        int o=252264991;
+//        Solution s=new Solution();
+//        System.out.print(s.maxProfit(v,o));
+        for (int i=0;i<50;i++){
+            System.out.println(1<<i);
+        }
     }
 }
