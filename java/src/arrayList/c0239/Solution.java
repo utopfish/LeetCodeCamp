@@ -1,5 +1,6 @@
 package c0239;
 
+import java.util.Comparator;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.PriorityQueue;
@@ -9,22 +10,26 @@ import java.util.PriorityQueue;
  * @Date : 13:28 2021/1/4
  * @Description：
  */
-public class Solution {
+class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
-        List<Integer> list=new LinkedList<Integer>();
-        PriorityQueue<Integer> queue=new PriorityQueue<Integer>();
-        int count=0;
-        for (int i =0;i<k;i++){
-            queue.add(nums[count]);
-            count++;
+        int n = nums.length;
+        PriorityQueue<int[]> pq = new PriorityQueue<int[]>(new Comparator<int[]>() {
+            public int compare(int[] pair1, int[] pair2) {
+                return pair1[0] != pair2[0] ? pair2[0] - pair1[0] : pair2[1] - pair1[1];
+            }
+        });
+        for (int i = 0; i < k; ++i) {
+            pq.offer(new int[]{nums[i], i});
         }
-        list.add(queue.peek());
-        for (int i=0;i<nums.length-k;i++){
-            queue.remove(nums[count-k]);
-            queue.add(nums[count]);
-            list.add(queue.peek());
-            count++;
+        int[] ans = new int[n - k + 1];
+        ans[0] = pq.peek()[0];
+        for (int i = k; i < n; ++i) {
+            pq.offer(new int[]{nums[i], i});
+            while (pq.peek()[1] <= i - k) {
+                pq.poll();
+            }
+            ans[i - k + 1] = pq.peek()[0];
         }
-        return list;
+        return ans;
     }
 }

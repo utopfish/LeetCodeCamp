@@ -1,6 +1,5 @@
 package c0068;
 
-import c0024swapPairs.ListNode;
 
 /**
  * @Author: Mr Liu Meng
