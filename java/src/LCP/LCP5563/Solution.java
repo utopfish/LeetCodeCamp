@@ -9,7 +9,7 @@ import java.util.PriorityQueue;
  */
 public class Solution {
     public int maxProfit(int[] inventory, int orders) {
-        PriorityQueue<Integer> queue = new PriorityQueue<>();
+        PriorityQueue<Integer> queue = new PriorityQueue<Integer>();
         for (int i=0;i<inventory.length;i++){
             queue.offer(-inventory[i]);
         }

@@ -32,7 +32,7 @@ class Solution {
         return ret;
     }
     public static void main(String[] args){
-        Solution s=new Solution();
+        LCP5243.Solution s=new LCP5243.Solution();
         System.out.println(s.generate(5));
     }
 }
