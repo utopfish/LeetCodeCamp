@@ -1,3 +1,4 @@
+package arrayList.c0118;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -32,7 +33,7 @@ class Solution {
         return ret;
     }
     public static void main(String[] args){
-        LCP5243.Solution s=new LCP5243.Solution();
+        Solution s=new Solution();
         System.out.println(s.generate(5));
     }
 }

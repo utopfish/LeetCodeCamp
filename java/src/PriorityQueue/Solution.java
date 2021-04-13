@@ -1,3 +1,4 @@
+package PriorityQueue;
 import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
 
 import java.util.Comparator;
@@ -8,6 +9,7 @@ import java.util.PriorityQueue;
  * @Date : 9:35 2020/11/9
  * @Description：
  */
+
 public class Solution {
     public int[][] kClosest(int[][] points, int K) {
         PriorityQueue<int[]> queue = new PriorityQueue<int[]>(new Comparator<int[]>() {

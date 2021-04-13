@@ -1,4 +1,4 @@
-package sort;
+package basicLearning.sort;
 
 /**
  * @Author: Mr Liu Meng
